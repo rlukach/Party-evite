@@ -1,4 +1,3 @@
-# Party-evite
 <!DOCTYPE html>
 
 <html>
@@ -10,36 +9,38 @@
         <title>Project: Event invite</title>
 
         <style>
+    
 
- body    {color:rgb(35,55,92);}
+body    {color:rgb(121, 91, 194);
+            background-color: #f8adbc;}
 
  ul         {list-style-type: none;} 
 
-#header  {background-color:rgb(85,102,134);
+#header  {background-color:rgb(168, 171, 178);
 
-                color:rgb(170,179,196);
+                color:rgb(122, 103, 157);
 
                 line-height:1em;
 
                 padding:1px;}
 
-#title-heading{text-align:right;
+#title-heading{text-align:center;
 
-                color:rgb(196, 190, 190);
+                color:rgb(248, 151, 255);
 
-                font-size:45px;}
+                font-size:41px
 
-#title-subheading {border-top: 2px solid rgb(35,55,92);
+#title-subheading {border-top: 85px solid rgb(133, 164, 219);
 
                 border-bottom: 2px solid rgb(35,55,92);
 
-                padding:6px;
+                padding:11px;
 
-                background-color:rgb(85,102,134);
+                background-color:rgb(33, 83, 177);
 
-color:rgb(170,179,196);margin:0;font-style:italic;}
+color:rgb(96, 118, 160);margin:0;font-style:italic;}
 
-#event-info{color:rgb(35,55,92);font-weight:bold;}
+#event-info{color:rgb(111, 56, 204);font-weight:bold;}
 
 div#event-info span{text-decoration:underline; }
 
@@ -53,67 +54,48 @@ div#event-info span{text-decoration:underline; }
 
         <div id="header">
 
-            <h3 id="intro-text">You're cordially invited to</h3>
+            <h3 id="intro-text">You're invited to the magical</h3>
 
-            <h1 id="title-heading">Second City Swingout</h1>
+            <h1 id="title-heading">Disney Princess Halloween Bash</h1>
 
         </div>
 
-        <h2 id="title-subheading">Chicago's Lindy Hop Weekend</h2>
+        <h2 id="title-subheading">Halloween Weekend</h2>
 
         <div id="event-info">
 
-            <p><span>Date:</span>&nbsp;&nbsp;10/20/18</p>
+            <p><span>Date:</span>&nbsp;&nbsp;10/31/23</p>
 
-            <p><span>Location:</span>&nbsp; Chicago, IL</p>
+            <p><span>Location:</span>&nbsp; Disney World</p>
 
         </div>
 
-        <h3 class="info-heading">Track Levels</h3>
+        <h3 class="#event-info">What to expect?</h3>
+
+<p>The whole night is going to be magical. There are going to be many different activties for everyone to do. There will be special appearences from many different princesses. You will have the chance to spend time with them and even get a makeover like your favorite princess. </p>
+
+        <h3 class="info-heading">Princesses</h3>
 
         <ul>
 
-            <li>Beginner</li>
+        <li>Rapunzal</li>
 
-            <li>Intermediate</li>
+            <li>Cinderella</li>
 
-            <li>Intermediate/Advanced</li>
+            <li>Belle</li>
 
-            <li>Advanced</li>
+            <li>Ariel</li>
 
-        </ul>
+            <li>Jasmine</li>
 
-        <h3 class="info-heading">Instructors</h3>
+            <li>Snow White</li>
 
-        <ul>
-
-        <li>Naomi Uyama & Peter Strom - Lindy Hop</li>
-
-            <li>Mia Halloran & Andy Reid - Lindy Hop</li>
-
-            <li>Jon Tigert - Lindy Hop / Solo
-
-</li>
-
-            <li>Jenny Shirar & Christian Frommelt - Lindy Hop / STL Shag
-
-</li>
-
-            <li>Julee Mertz & Andrew Twiss - Lindy Hop Beginner Track
-
-</li>
-
-            <li>Ken Watkins - Chicago Steppin'
-
-</li>
-
-            <li>Bril Barret - Tap
-
-</li>
+            <li>Aurora</li>
 
         </ul>
 
-        <p>Have any other questions? <a href="">Contact Us</a></p>
+        <h4>We can't wait to see you soon at the happiest place on Earth!</h4>
+            <p>Have any other questions? <a href="https://disneyworld.disney.go.com/">Contact Us</a></p>
 
     </body>
 
